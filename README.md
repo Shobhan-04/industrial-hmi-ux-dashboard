@@ -180,7 +180,7 @@ industrial-hmi-ux-dashboard/
 ## 🔗 Prototype
 
 **Figma Prototype:**
-[Add your Figma prototype link here]
+[https://www.figma.com/design/Beccoa0DBsZzi4I1lNTXct/UX-UI-CASE-STUDY?node-id=2-2&t=rNR6MXOoIICoY6l1-1]
 
 The prototype demonstrates navigation between the plant overview, machine details, alarm center, alarm details, and acknowledgement workflow.
 
